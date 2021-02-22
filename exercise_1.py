@@ -1,4 +1,4 @@
-tups = ('fonsy', 5)
+tups = ('fonsy', 5,)
 sets = {'fonsy', '5'}
 lists = ['fonsy', 5]
 dictionaries = dict(name= 'fonsy', rice= 5)
